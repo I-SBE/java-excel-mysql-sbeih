@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MitarbeiterTbl SYSTEM "../dtd/Mitarbeiter.dtd">
+<MitarbeiterTbl>
+	<Mitarbeiter>
+		<ID>101</ID>
+		<Vorname>Lydia</Vorname>
+		<Nachname>Schneider</Nachname>
+		<Strasse>Hauptstraße</Strasse>
+		<HausNr>12</HausNr>
+		<PLZ>10115</PLZ>
+		<Ort>Berlin</Ort>
+		<Telefon>0301234567</Telefon>
+		<eMail>ali.ahmad@example.com</eMail>
+	</Mitarbeiter>
+	<Mitarbeiter>
+		<ID>102</ID>
+		<Vorname>Lena</Vorname>
+		<Nachname>Müller</Nachname>
+		<Strasse>Bahnhofstraße</Strasse>
+		<HausNr>5</HausNr>
+		<PLZ>10247</PLZ>
+		<Ort>Berlin</Ort>
+		<Telefon>0307654321</Telefon>
+	</Mitarbeiter>
+	<Mitarbeiter>
+		<ID>103</ID>
+		<Vorname>Markus</Vorname>
+		<Nachname>Schmidt</Nachname>
+		<Strasse>Berliner Straße</Strasse>
+		<HausNr>30</HausNr>
+		<PLZ>10435</PLZ>
+		<Ort>Berlin</Ort>
+		<eMail>markus.schmidt@example.com</eMail>
+	</Mitarbeiter>
+</MitarbeiterTbl>

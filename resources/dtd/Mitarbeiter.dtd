@@ -1,0 +1,12 @@
+<!ELEMENT MitarbeiterTbl (Mitarbeiter+)>
+<!ELEMENT Mitarbeiter (ID, Vorname, Nachname, Strasse, HausNr, PLZ, Ort, Telefon?, eMail?)>
+
+<!ELEMENT ID (#PCDATA)>
+<!ELEMENT Vorname (#PCDATA)>
+<!ELEMENT Nachname (#PCDATA)>
+<!ELEMENT Strasse (#PCDATA)>
+<!ELEMENT HausNr (#PCDATA)>
+<!ELEMENT PLZ (#PCDATA)>
+<!ELEMENT Ort (#PCDATA)>
+<!ELEMENT Telefon (#PCDATA)>
+<!ELEMENT eMail (#PCDATA)>

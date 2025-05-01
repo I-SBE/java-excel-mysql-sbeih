@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ExMitarbeiterTbl SYSTEM "../dtd/Externe_Mitarbeiter.dtd">
+<ExMitarbeiterTbl>
+	<ExMitarbeiter>
+		<ID>201</ID>
+		<Vorname>Sophie</Vorname>
+		<Nachname>Weber</Nachname>
+		<Strasse>Lindenstraße</Strasse>
+		<HausNr>8</HausNr>
+		<PLZ>10555</PLZ>
+		<Ort>Berlin</Ort>
+		<Telefon>0302233445</Telefon>
+		<eMail>sophie.weber@firma.de</eMail>
+		<Firma>IT Solutions GmbH</Firma>
+	</ExMitarbeiter>
+	<ExMitarbeiter>
+		<ID>202</ID>
+		<Vorname>Tom</Vorname>
+		<Nachname>Klein</Nachname>
+		<Strasse>Goethestraße</Strasse>
+		<HausNr>22</HausNr>
+		<PLZ>10623</PLZ>
+		<Ort>Berlin</Ort>
+		<eMail>tom.klein@firma.de</eMail>
+		<Firma>Logistik AG</Firma>
+	</ExMitarbeiter>
+</ExMitarbeiterTbl>

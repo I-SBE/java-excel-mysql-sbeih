@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE KundenTbl SYSTEM "../dtd/Kunden.dtd">
+<KundenTbl>
+	<Kunde>
+		<ID>301</ID>
+		<Vorname>Hans</Vorname>
+		<Nachname>Meier</Nachname>
+		<Strasse>Kurfürstendamm</Strasse>
+		<HausNr>100</HausNr>
+		<PLZ>10711</PLZ>
+		<Ort>Berlin</Ort>
+		<eMail>hans.meier@kunde.de</eMail>
+		<Branche>Finanzen</Branche>
+	</Kunde>
+	<Kunde>
+		<ID>302</ID>
+		<Vorname>Petra</Vorname>
+		<Nachname>Schulz</Nachname>
+		<Strasse>Alexanderplatz</Strasse>
+		<HausNr>1</HausNr>
+		<PLZ>10178</PLZ>
+		<Ort>Berlin</Ort>
+		<Telefon>0309988776</Telefon>
+		<Branche>Einzelhandel</Branche>
+	</Kunde>
+</KundenTbl>
